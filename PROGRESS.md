@@ -7,7 +7,7 @@ Legend: ⬜ Not started · 🟡 In progress · ✅ Done
 | Day | Topic | Status |
 |---|---|---|
 | 1 | Variables, loops, conditionals, functions | ✅ |
-| 2 | Lists, tuples, strings | ⬜ |
+| 2 | Lists, tuples, strings | ✅ |
 | 3 | Dicts, sets, Big O intro | ⬜ |
 
 ## Phase 1: Arrays, Strings, Two Pointers (Days 4–10)
